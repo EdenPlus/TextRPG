@@ -1,0 +1,52 @@
+**PLAYER**
+player.name 1
+player.level 2
+player.experience 3
+player.inventoryCount 4
+========
+**WEAPON**
+player.Weapon.level 5.1
+player.Weapon.name 5.2
+player.Weapon.artifact 5.3
+player.Weapon.damage 5.4
+player.Weapon.critChance 5.5
+player.Weapon.critMultiplier 5.6
+========
+**ARMOR**
+player.Armor.level 6.1
+player.Armor.name 6.2
+player.Armor.artifact 6.3
+player.Armor.defense 6.4
+========
+**SPELLBOOK**
+player.Spellbook.count
+player.Spellbook.Magic.damagePercent 7.1.1
+player.Spellbook.Magic.manaCost 7.1.2
+player.Spellbook.Magic.name 7.1.3
+--------
+player.Spellbook.Magic.damagePercent 7.2.1
+player.Spellbook.Magic.manaCost 7.2.2
+player.Spellbook.Magic.name 7.2.3
+========
+**UNLEARNEDSPELLS**
+player.UnlearnedSpells.Magic.damagePercent 8.1.1
+player.UnlearnedSpells.Magic.manaCost 8.1.2
+player.UnlearnedSpells.Magic.name 8.1.3
+--------
+player.UnlearnedSpells.Magic.damagePercent 8.2.1
+player.UnlearnedSpells.Magic.manaCost 8.2.2
+player.UnlearnedSpells.Magic.name 8.2.3
+--------
+player.UnlearnedSpells.Magic.damagePercent 8.3.1
+player.UnlearnedSpells.Magic.manaCost 8.3.2
+player.UnlearnedSpells.Magic.name 8.3.3
+--------
+player.UnlearnedSpells.Magic.damagePercent 8.4.1
+player.UnlearnedSpells.Magic.manaCost 8.4.2
+player.UnlearnedSpells.Magic.name 8.4.3
+--------
+player.UnlearnedSpells.Magic.damagePercent 8.5.1
+player.UnlearnedSpells.Magic.manaCost 8.5.2
+player.UnlearnedSpells.Magic.name 8.5.3
+========
+________
